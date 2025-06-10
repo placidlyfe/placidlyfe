@@ -5,7 +5,7 @@ date: 2025-06-08
 tags:
     - IndexedDB
     - BrowserStorage
-# published: false
+published: true
 ---
 
 ### IndexedDB
@@ -69,9 +69,3 @@ tags:
   * `idb`(Jake Archibald)·Dexie.js 등 프라미스 래퍼 사용 시 코드 간결
   * 일괄 삽입 시 트랜잭션 범위 하나로 묶어 성능 ↑
   * 불필요한 인덱스 남발 시 쓰기 성능 ↓
-
-* **참고 자료**
-
-  * MDN IndexedDB Guide
-  * W3C IndexedDB Level 3 Spec
-  * Jake Archibald "IndexedDB Promised" 블로그
